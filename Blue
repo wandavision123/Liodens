@@ -1,0 +1,349 @@
+div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {content: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/50029d8d-3c72-4991-b3aa-f037a31a5097/dcsbhp5-b75454b9-8e41-435b-a505-1bcbcc6012ae.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUwMDI5ZDhkLTNjNzItNDk5MS1iM2FhLWYwMzdhMzFhNTA5N1wvZGNzYmhwNS1iNzU0NTRiOS04ZTQxLTQzNWItYTUwNS0xYmNiY2M2MDEyYWUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2RnjjiJ4pRAQjLuUbePAyHrBlkv49tkG-oe4LOzgwoc');}
+div.cave-grid > img {content: url('https://i.imgur.com/kGeGIVN.png')!important;}
+
+div.cave-grid > img {content: url('https://i.imgur.com/3zKOkKr.png')!important;}
+
+
+
+a[href$="unsorted.php?id=194897"] > div.cave-grid > img {content: url('https://imgur.com/FgrD2HL.jpg')!important;}
+
+a[href$="lionoverview.php?id=194897"] > div.cave-grid > img {content: url('https://imgur.com/FgrD2HL.jpg')!important;}
+
+a[href$="136306"] > div.cave-grid > img {content: url('https://imgur.com/XUnCQrS.jpg')!important;}
+
+a[href$="138342"] > div.cave-grid > img {content: url('https://imgur.com/XUnCQrS.jpg')!important;}
+
+a[href$="138457"] > div.cave-grid > img {content: url('https://imgur.com/XUnCQrS.jpg')!important;}
+
+@import url('https://fonts.googleapis.com/css?family=Viaoda+Libre&display=swap');
+body {
+    background: url('https://imgur.com/ByGjQC4.jpg') center center fixed;
+    background-size: 100%;
+    font-family: 'Viaoda Libre', cursive;
+    color: black;
+    font-size: 14px;
+}
+   
+.center.b {
+    color: black !important;
+    font-family: 'Viaoda Libre', cursive;
+}
+   
+.feature {
+    background: rgba(201, 233, 255, 0.8) !important;
+    color: black !important;
+    border: 20 !important;
+}
+   
+.topbar {
+    background: rgba(201, 233, 255, 0.6);
+    border: 5px;
+    border-top: none;
+    color: black;
+    border-radius: 20px;
+    font-family: 'Viaoda Libre', cursive;
+    color: black;
+}
+   
+.navbar {
+    background: rgba(201, 233, 255, 0.6);
+    border-bottom: none;
+    color: black;
+    border-radius: 10px;
+    font-family: 'Viaoda Libre', cursive;
+}
+   
+.navbar li a {
+    color: black !important;
+    font-family: 'Viaoda Libre', cursive;
+}
+   
+.navbar li a:hover {
+    background: rgba(130, 140, 108, 0.8) !important;
+}
+   
+.container.main {
+    background: rgba(224, 241, 255, 0.4);
+    border: 9px;
+    box-shadow: none;
+    border: solid white;
+    border-radius: 20px;
+}
+   
+.col-md-9 {
+    background: none;
+}
+   
+.breadcrumb {
+    background: rgba(224, 241, 255, 0.8);
+}
+   
+.breadcrumb .active {
+    color: black;
+}
+   
+.alert {
+    background: rgba(28, 77, 120, 0.6);
+    border: 5px;
+    color: black;
+}
+   
+.alert-warning,
+.alert-danger {
+    background: rgba(28, 77, 120, 0.6);
+    color: black;
+}
+   
+div.left {
+    background: rgba(181, 215, 245, 0.6);
+    border: none;
+}
+   
+.panel {
+    background: rgba(224, 241, 255, 0.6) !important;
+    box-shadow: none !important;
+    border: 5px !important;
+    color: black !important;
+    p.solid {border-style: solid;}
+}
+   
+.progress {
+    background: rgba(240, 248, 255, 0.6);
+    color: black !important;
+}
+   
+.progress-div {
+    color: black !important;
+}
+   
+.progress-bar {
+    background: rgba(112, 188, 255, 0.6);
+    color: black !important;
+}
+   
+.s-chat-message:nth-child(even) {
+    background: rgba(166, 213, 255, 0.6) !important;
+    border: none !important;
+}
+   
+.s-chat-message:nth-child(odd) {
+    background: rgba(28, 92, 148, 0.6) !important;
+    border: none !important;
+}
+   
+.s-chat-message__pinned {
+    background: rgba(105, 185, 255, 0.6) !important;
+    color: black !important;
+    border: 5px !important;
+}
+   
+.s-chat-message_timestamp {
+    color: black !important;
+}
+   
+div#chatMessageContainer {
+    border: 5px !important;
+}
+   
+button#label_currentChannel {
+    border: 5px !important;
+    background: rgba(105, 185, 255, 0.6) !important;
+}
+   
+h1 {
+    color: #000000;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Viaoda Libre', cursive;
+}
+   
+h2 {
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Viaoda Libre', cursive;
+}
+   
+.sidebar h3 {
+    font-family: 'Viaoda Libre', cursive;
+}
+   
+h3 {
+    color: black !important;
+    font-size: 24px !important
+}
+   
+.table {
+    background: rgba(230, 243, 255, 0.6);
+    border: 10px !important;
+    border-collapse: separate;
+    border-radius: 35px;
+    color: black !important;
+}
+   
+.top,
+.bottom,
+th {
+    background: rgba(222, 240, 255, 0.6) !important;
+    color: black !important;
+    border-radius: 20px;
+    font-family: 'Viaoda Libre', cursive;
+}
+   
+.table .left {
+    background: rgba(222, 240, 255, 0.6);
+}
+   
+.inner-table .left {
+    background: rgba(181, 220, 255, 0.6) !important;
+}
+   
+.inner-table .right {
+    background: rgba(181, 220, 255, 0.6)
+}
+   
+.right_odd {
+    background: none !important;
+}
+   
+.item-header {
+    background: rgba(181, 220, 255, 0.6) !important;
+    color: black !important;
+}
+   
+.item {
+    background: rgba(120, 223, 255, 0.6) !important;
+    border: 10px !important;
+}
+   
+.sub_menu {
+    background: rgba(224, 248, 255, 0.6) !important;
+}
+   
+.sub_menu_item_selected {
+    background: rgba(103, 171, 191, 0.6) !important;
+}
+   
+.cave-grid,
+.mound-grid {
+    background: rgba(207, 244, 255, 0.6);
+    border: 5px !important;
+}
+   
+a:link,
+a:visited {
+    color: black !important;
+}
+   
+table.table.auto {
+    color: black !important;
+}
+   
+a:hover {
+    color: #1f4866 !important;
+}
+   
+input,
+select,
+textarea {
+    background: rgba(159, 187, 207, 0.6) !important;
+    border: 5px !important;
+    border-color: white;
+    border-radius: 20px;
+    box-shadow: none !important;
+    color: black !important;
+    text-shadow: none !important;
+}
+   
+.boxcontainer {
+    background: none;
+    height: auto;
+    padding: 10px;
+    display: flex;
+    justify-content: center
+}
+   
+.Box1 {
+    float: left;
+    background: rgba(143, 208, 255, 0.6);
+    color: black;
+    padding: 5px;
+    border: 5px; #ffffff;
+    border-radius: 25px;
+    margin: 15px;
+    float: left;
+    height: 250px;
+    width: 250px;
+    overflow: solid;
+    margin-bottom: 35px;
+    transition: 1s
+}
+   
+.Box1:hover {
+    overflow-y: auto;
+}
+   
+.Box2 {
+    float: left;
+    background: rgba(227, 243, 255, 0.6);
+    color: black;
+    padding: 5px;
+    border: 5px;
+    border-radius: 25px;
+    margin: 15px;
+    float: right;
+    height: 250px;
+    width: 250px;
+    overflow: solid;
+    margin-bottom: 35px;
+    transition: 1s
+}
+   
+.Box2:hover {
+    overflow-y: auto;
+}
+   
+   
+}
+   
+.credit {
+    background: rgba(82, 63, 38, 0.6);
+    color: black;
+    padding: 10px;
+    border: solid;
+    position: fixed;
+    text-align: center;
+    border-radius: 25px;
+    left: 0px;
+    bottom: 0px;
+    width: 180px;
+    height: 40px;
+    overflow: auto;
+}
+   
+::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+}
+   
+::-webkit-scrollbar-track {
+    background: #635440;
+}
+   
+::-webkit-scrollbar-thumb {
+    background: #4c6340;
+    border-radius: 5px;
+}
+   
+div#lion_image {
+    filter: opacity(80%) grayscale(20%);
+    border-radius: 0% !important;
+    overflow: solid;
+    margin-top: 15px;
+    border: solid white;
+}
+   
+table#player img {
+    filter: opacity(100%) grayscale(20%);
+    border-radius: 0% !important;
+    overflow: solid;
